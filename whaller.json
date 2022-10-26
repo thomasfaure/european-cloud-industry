@@ -61,9 +61,9 @@
 		"floss_software": false,
 		"commercial_support_open_source_version": false,
 		"commercial_support_available": true,
-		"wikipedia_url": "",
+		"wikipedia_url": "https://fr.wikipedia.org/wiki/Whaller",
 		"reference_list": [{
-			"title": "Centrale Supélec",
+			"title": "CentraleSupélec",
 			"logo_url": "https://www.centralesupelec.fr/sites/all/themes/cs_theme/medias/common/images/intro/logo.png",
 			"country": "FR",
 			"industry": "Academia and Research"
@@ -83,22 +83,12 @@
 			"country": "FR",
 			"industry": "Academia and Research"
 		},{
-			"title": "Centrale Supélec",
-			"logo_url": "https://www.universite-paris-saclay.fr/sites/default/files/media/2019-12/logo-ups.svg",
-			"country": "FR",
-			"industry": "Academia and Research"
-		},{
-			"title": "TEN-NIS",
-			"logo_url": "https://www.fft.fr/sites/default/files/2019-05/fft.svg",
-			"country": "FR",
-			"industry": "Associations and NGOs"
-		},{
 			"title": "Passerelles et Compétences",
 			"logo_url": "http://passerellesetcompetences.org/images/banners/logo-c.png",
 			"country": "FR",
 			"industry": "Associations and NGOs"
 		},{
-			"title": "Foundation UN AVENIR ensemble",
+			"title": "Foundation Un avenir ensemble",
 			"logo_url": "https://fondation-unavenirensemble.org/wp-content/uploads/2020/06/cropped-logo_fuae-1.jpg",
 			"country": "FR",
 			"industry": "Associations and NGOs"
@@ -107,11 +97,6 @@
 			"logo_url": "https://esperancebanlieues.org/wp-content/themes/EB1/assets/svg/logo-blue.svg",
 			"country": "FR",
 			"industry": "Associations and NGOs"
-		},{
-			"title": "CAPITAL SANTE",
-			"logo_url": "http://capitalsantegp.com/images/logo.png",
-			"country": "FR",
-			"industry": "Health and Life Sciences"
 		},{
 			"title": "Centre Hopsitalier des Pays de Marlaix",
 			"logo_url": "https://www.ch-morlaix.fr/sites/default/files/logo.png",
@@ -160,11 +145,6 @@
 		},{
 			"title": "TENNIS Comité Hauts de Seine",
 			"logo_url": "https://static.wixstatic.com/media/bc7c30_cd71c67ad8df48379d87533e3b5641a9~mv2.png/v1/fill/w_281,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FFT_COMITE_HAUTS%20DE%20SEINE_2L_FD_FC_Q.png",
-			"country": "FR",
-			"industry": "Associations and NGOs"
-		},{
-			"title": "Club de sport, Coeur du Sport",
-			"logo_url": "https://www.clubcardiosport.com/sites/www.clubcardiosport.com/themes/custom/specific/logo.png",
 			"country": "FR",
 			"industry": "Associations and NGOs"
 		},{
